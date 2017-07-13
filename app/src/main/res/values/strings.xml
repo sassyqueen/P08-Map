@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">P08-Map</string>
+    <string-array name="branchesArray">
+        <item>East</item>
+        <item>Central</item>
+        <item>HQ - North</item>
+    </string-array>
+</resources>
